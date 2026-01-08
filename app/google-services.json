@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345796201802",
+    "project_id": "fir-kotlin-e4d40",
+    "storage_bucket": "fir-kotlin-e4d40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345796201802:android:f75bc55812cbf99743c5b3",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkjDiobcp8dwfkvlllVMC2zW6123QOyZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
